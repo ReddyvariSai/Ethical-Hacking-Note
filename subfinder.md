@@ -1,7 +1,3 @@
-Nice — you’re at the point where Kali suggests packages and shows that installing `gccgo-go` would remove `golang-go`. Here’s a short, clear guide on what to do and why.
-
----
-
 ## Quick answer (recommended)
 
 If you just want `subfinder` working fast, use the Debian package that Kali suggested:
