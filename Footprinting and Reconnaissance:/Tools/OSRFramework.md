@@ -639,10 +639,11 @@ Installation on Kali Linux
 Installation on Linux (Debian, Mint, Ubuntu)
 
 
-`sudo apt update
+```sudo apt update
 sudo apt install python-pip python-setuptools
 sudo pip install --upgrade pip
-sudo pip install osrframework`
+sudo pip install osrframework
+````
 
 For the following update
 
