@@ -1,6 +1,8 @@
 # OSRFramework
 
-OSRFramework installs easily on Kali Linux as a native package. This open-source intelligence toolset supports username checks, domain lookups, and more across numerous platforms.​
+OSRFramework installs easily on Kali Linux as a native package. 
+
+This open-source intelligence toolset supports username checks, domain lookups, and more across numerous platforms.​
 
 ## Preferred Method
 
@@ -26,6 +28,7 @@ First ensure pip3 is ready: `sudo apt install python3-pip`. Then execute:
 ```
 sudo pip3 install osrframework
 ```
+
 Upgrade later with `sudo pip3 install osrframework --upgrade`.​​
 
 ## Verification
