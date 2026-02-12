@@ -4,9 +4,6 @@
 
 # Active and Passive Reconnaissance Techniques
 
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/aad1bb5c-593a-4fb2-a07d-316b0464c7c8" />
-
-
 In this article, we’ll explore the roles of active and passive reconnaissance and examine how each approach helps identify security vulnerabilities.
 
 We'll detail the distinct methodologies, tools, and optimal scenarios for their application, providing a deep dive into the essentials of these cyber security tactics.
